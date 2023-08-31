@@ -34,4 +34,4 @@ A mini Weather Station Dashboard built with React.js. Fetch real-time weather de
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/yourusername/weather-station-dashboard.git
+   git clone https://github.com/shoaib20-1998/hello-ar.git
