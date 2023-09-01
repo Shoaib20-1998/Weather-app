@@ -23,6 +23,7 @@ A mini Weather Station Dashboard built with React.js. Fetch real-time weather de
   - Handles API rate limits and errors gracefully.
   - Notifies users if a city cannot be found.
 
+**Deployed link:** https://weatherapp-ten-umber.vercel.app/
 ## Getting Started
 
 ### Prerequisites
